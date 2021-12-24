@@ -46,7 +46,7 @@ class _myappState extends State<myapp> {
               divisions: 100,
               label: "range $_svalue",
             ),
-            Text("value=$_svalue")
+            Text("slider value =$_svalue")
           ],
         ),
       ),
